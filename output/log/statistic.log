@@ -1,9 +1,10 @@
-Category: 📺央视频道, Name: CCTV-1, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 87 ms, Max Speed: 48.92 M/s, Avg Speed: 48.92 M/s, Max Resolution: None
-Category: ☘️湖南频道, Name: 湖南电视剧, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 225 ms, Max Speed: 2.25 M/s, Avg Speed: 2.05 M/s, Max Resolution: None
-Category: ☘️湖南频道, Name: 湖南爱晚, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 393 ms, Max Speed: 1.44 M/s, Avg Speed: 1.44 M/s, Max Resolution: None
-Category: 🌊港·澳·台, Name: 翡翠台, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 10499 ms, Max Speed: 6.20 M/s, Avg Speed: 6.04 M/s, Max Resolution: None
-Category: 🌊港·澳·台, Name: 明珠台, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 50 ms, Max Speed: 97.04 M/s, Avg Speed: 95.06 M/s, Max Resolution: None
-Category: 🌊港·澳·台, Name: 凤凰中文, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: 51 ms, Max Speed: 113.94 M/s, Avg Speed: 103.48 M/s, Max Resolution: None
-Category: 🌊港·澳·台, Name: 凤凰资讯, Total: 4, Valid: 4, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: 56 ms, Max Speed: 104.02 M/s, Avg Speed: 97.82 M/s, Max Resolution: None
-Category: 🌊港·澳·台, Name: 凤凰香港, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 49 ms, Max Speed: 92.39 M/s, Avg Speed: 80.21 M/s, Max Resolution: None
-Category: 🎬电影频道, Name: 无线星河, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 69 ms, Max Speed: 136.35 M/s, Avg Speed: 132.05 M/s, Max Resolution: None
+Category: 📺央视频道, Name: CCTV-1, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 127 ms, Max Speed: 37.76 M/s, Avg Speed: 37.76 M/s, Max Resolution: None
+Category: ☘️湖南频道, Name: 湖南都市, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 1180 ms, Max Speed: 0.56 M/s, Avg Speed: 0.56 M/s, Max Resolution: None
+Category: ☘️湖南频道, Name: 湖南经视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 1559 ms, Max Speed: 0.55 M/s, Avg Speed: 0.55 M/s, Max Resolution: None
+Category: ☘️湖南频道, Name: 湖南电影, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 1432 ms, Max Speed: 0.52 M/s, Avg Speed: 0.52 M/s, Max Resolution: None
+Category: ☘️湖南频道, Name: 湖南爱晚, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 1145 ms, Max Speed: 0.64 M/s, Avg Speed: 0.64 M/s, Max Resolution: None
+Category: 🌊港·澳·台, Name: 明珠台, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 50 ms, Max Speed: 42.12 M/s, Avg Speed: 32.86 M/s, Max Resolution: None
+Category: 🌊港·澳·台, Name: 凤凰中文, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: 66 ms, Max Speed: 93.93 M/s, Avg Speed: 82.54 M/s, Max Resolution: None
+Category: 🌊港·澳·台, Name: 凤凰资讯, Total: 4, Valid: 4, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: 61 ms, Max Speed: 102.14 M/s, Avg Speed: 63.20 M/s, Max Resolution: None
+Category: 🌊港·澳·台, Name: 凤凰香港, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 58 ms, Max Speed: 85.35 M/s, Avg Speed: 84.32 M/s, Max Resolution: None
+Category: 🎬电影频道, Name: 无线星河, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 49 ms, Max Speed: 57.27 M/s, Avg Speed: 43.67 M/s, Max Resolution: None
